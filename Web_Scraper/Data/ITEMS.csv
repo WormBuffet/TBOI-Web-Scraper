@@ -1,0 +1,720 @@
+item_id,item_name,item_desc,item_quality,item_type,item_game
+1,The Sad Onion,Tears up,3,Passive,Rebirth
+2,The Inner Eye,Triple shot,2,Passive,Rebirth
+3,Spoon Bender,Homing shots,3,Passive,Rebirth
+4,Cricket's Head,DMG up,4,Passive,Rebirth
+5,My Reflection,Boomerang tears,2,Passive,Rebirth
+6,Number One,Tears up,2,Passive,Rebirth
+7,Blood of the Martyr,DMG up,3,Passive,Rebirth
+8,Brother Bobby,Friends 'till the end,1,Passive,Rebirth
+9,Skatole,Fly love,0,Passive,Rebirth
+10,Halo of Flies,Projectile protection,2,Passive,Rebirth
+11,1UP,Extra life,2,Passive,Rebirth
+12,Magic Mushroom,All stats up!,4,Passive,Rebirth
+13,The Virus,Poison touch,2,Passive,Rebirth
+14,Roid Rage,Speed and range up,2,Passive,Rebirth
+15,<3,HP up,2,Passive,Rebirth
+16,Raw Liver,HP up,2,Passive,Rebirth
+17,Skeleton Key,99 keys,3,Passive,Rebirth
+18,A Dollar,$$$,3,Passive,Rebirth
+19,Boom!,10 bombs,0,Passive,Rebirth
+20,Transcendence,We all float down here...,3,Passive,Rebirth
+21,The Compass,The end is near,2,Passive,Rebirth
+22,Lunch,HP up,1,Passive,Rebirth
+23,Dinner,HP up,1,Passive,Rebirth
+24,Dessert,HP up,1,Passive,Rebirth
+25,Breakfast,HP up,1,Passive,Rebirth
+26,Rotten Meat,HP up,1,Passive,Rebirth
+27,Wooden Spoon,Speed up,1,Passive,Rebirth
+28,The Belt,Speed up,1,Passive,Rebirth
+29,Mom's Underwear,Range Up,1,Passive,Rebirth
+30,Mom's Heels,Range up,1,Passive,Rebirth
+31,Mom's Lipstick,Range up,1,Passive,Rebirth
+32,Wire Coat Hanger,Tears up,3,Passive,Rebirth
+33,The Bible,Temporary flight,1,Active,Rebirth
+34,The Book of Belial,Temporary DMG up,2,Active,Rebirth
+35,The Necronomicon,Mass room damage,1,Active,Rebirth
+36,The Poop,Plop!,0,Active,Rebirth
+37,Mr. Boom,Reusable bomb buddy,1,Active,Rebirth
+38,Tammy's Head,Reusable tear burst,2,Active,Rebirth
+39,Mom's Bra,Mass fear,1,Active,Rebirth
+40,Kamikaze,Become the bomb!,0,Active,Rebirth
+41,Mom's Pad,Gross...,0,Active,Rebirth
+42,Bob's Rotten Head,Reusable ranged bomb,1,Active,Rebirth
+44,Teleport,Teleport!,0,Active,Rebirth
+45,Yum Heart,Reusable regeneration,1,Active,Rebirth
+46,Lucky Foot,Luck up,2,Passive,Rebirth
+47,Doctor's Remote,Reusable air strike,1,Active,Rebirth
+48,Cupid's Arrow,Piercing shots,3,Passive,Rebirth
+49,Shoop Da Whoop!,BLLLARRRRGGG!,2,Active,Rebirth
+50,Steven,DMG up,3,Passive,Rebirth
+51,Pentagram,DMG up,3,Passive,Rebirth
+52,Dr. Fetus,???,4,Passive,Rebirth
+53,Magneto,Item snatcher,1,Passive,Rebirth
+54,Treasure Map,Full visible map,2,Passive,Rebirth
+55,Mom's Eye,Eye in the back of your head,1,Passive,Rebirth
+56,Lemon Mishap,Oops...,0,Active,Rebirth
+57,Distant Admiration,Attack fly,2,Passive,Rebirth
+58,Book of Shadows,Temporary invincibility,3,Active,Rebirth
+60,The Ladder,Building bridges,1,Passive,Rebirth
+62,Charm of the Vampire,Kills heal,1,Passive,Rebirth
+63,The Battery,Stores energy,2,Passive,Rebirth
+64,Steam Sale,50% off,2,Passive,Rebirth
+65,Anarchist Cookbook,Summon bombs,1,Active,Rebirth
+66,The Hourglass,Temporary enemy slowdown,1,Active,Rebirth
+67,Sister Maggy,Friends 'till the end,1,Passive,Rebirth
+68,Technology,Laser tears,3,Passive,Rebirth
+69,Chocolate Milk,Charge shots,3,Passive,Rebirth
+70,Growth Hormones,DMG up + speed up,3,Passive,Rebirth
+71,Mini Mush,Speed + range up,2,Passive,Rebirth
+72,Rosary,Faith up,2,Passive,Rebirth
+73,Cube of Meat,Gotta meat em all,2,Passive,Rebirth
+74,A Quarter,+25 coins,0,Passive,Rebirth
+75,PhD,Better pills,2,Passive,Rebirth
+76,X-Ray Vision,I've seen everything,2,Passive,Rebirth
+77,My Little Unicorn,Temporary badass,1,Active,Rebirth
+78,Book of Revelations,Reusable soul protection,3,Active,Rebirth
+79,The Mark,DMG up,3,Passive,Rebirth
+80,The Pact,DMG + tears up,3,Passive,Rebirth
+81,Dead Cat,9 lives,3,Passive,Rebirth
+82,Lord of the Pit,Demon wings,3,Passive,Rebirth
+83,The Nail,Temporary demon form,2,Active,Rebirth
+84,We Need To Go Deeper,Reusable level skip,2,Active,Rebirth
+85,Deck of Cards,Reusable card generator,2,Active,Rebirth
+86,Monstro's Tooth,Summon monstro,1,Active,Rebirth
+87,Loki's Horns,Cross tears,1,Passive,Rebirth
+88,Little Chubby,Attack buddy,2,Passive,Rebirth
+89,Spider Bite,Slow effect,2,Passive,Rebirth
+90,The Small Rock,DMG up,3,Passive,Rebirth
+91,Spelunker Hat,See-through doors,2,Passive,Rebirth
+92,Super Bandage,+2 hearts,2,Passive,Rebirth
+93,The Gamekid,Temporary Man-Pac,1,Active,Rebirth
+94,Sack of Pennies,Gives money,1,Passive,Rebirth
+95,Robo-Baby,Friends till the bzzzttt,1,Passive,Rebirth
+96,Little C.H.A.D,Gives kisses,2,Passive,Rebirth
+97,The Book of Sin,Reusable item generator,2,Active,Rebirth
+98,The Relic,Soul generator,3,Passive,Rebirth
+99,Little Gish,Sticky friend,2,Passive,Rebirth
+100,Little Steven,Psychic friend,2,Passive,Rebirth
+101,The Halo,All stats up,2,Passive,Rebirth
+102,Mom's Bottle of Pills,Reusable pill generator,1,Active,Rebirth
+103,The Common Cold,Poison damage,1,Passive,Rebirth
+104,The Parasite,Split shot,3,Passive,Rebirth
+105,The D6,Reroll your destiny,4,Active,Rebirth
+106,Mr. Mega,Blast damage,2,Passive,Rebirth
+107,Pinking Shears,Cut and run,2,Active,Rebirth
+108,The Wafer,Damage resistance,4,Passive,Rebirth
+109,Money = Power,$$$ = DMG,3,Passive,Rebirth
+110,Mom's Contacts,Freeze effect,3,Passive,Rebirth
+111,The Bean,Toot on command,0,Active,Rebirth
+112,Guardian Angel,Extra protection,2,Passive,Rebirth
+113,Demon Baby,Auto-turret friend,2,Passive,Rebirth
+114,Mom's Knife,Stab stab stab,4,Passive,Rebirth
+115,Ouija Board,Spectral tears,2,Passive,Rebirth
+116,9 Volt,Quicker charge,2,Passive,Rebirth
+117,Dead Bird,Protective buddy,0,Passive,Rebirth
+118,Brimstone,Blood laser barrage,4,Passive,Rebirth
+119,Blood Bag,HP up,2,Passive,Rebirth
+120,Odd Mushroom (Thin),Fire rate up,2,Passive,Rebirth
+121,Odd Mushroom (Large),DMG up,2,Passive,Rebirth
+122,Whore of Babylon,Curse up,2,Passive,Rebirth
+123,Monster Manual,Temporary buddy generator,1,Active,Rebirth
+124,Dead Sea Scrolls,It's a mystery,1,Active,Rebirth
+125,Bobby - Bomb,Friends till the end,2,Passive,Rebirth
+126,Razor Blade,Feel my pain,0,Active,Rebirth
+127,Forget Me Now,I don't remember...,3,Active,Rebirth
+128,Forever Alone,Attack fly,1,Passive,Rebirth
+129,Bucket of Lard,HP up,1,Passive,Rebirth
+130,A Pony,Flight + dash attack,2,Active,Rebirth
+131,Bomb Bag,Gives bombs,2,Passive,Rebirth
+132,A Lump of Coal,My Xmas present,3,Passive,Rebirth
+133,Guppy's Paw,Soul converter,3,Active,Rebirth
+134,Guppy's Tail,Cursed?,2,Passive,Rebirth
+135,IV Bag,Portable blood bank,1,Active,Rebirth
+136,Best Friend,Friends 'till the end,1,Active,Rebirth
+137,Remote Detonator,Remote bomb detonation,1,Active,Rebirth
+138,Stigmata,DMG + HP up,2,Passive,Rebirth
+139,Mom's Purse,More trinket room,2,Passive,Rebirth
+140,Bob's Curse,Poison bombs,1,Passive,Rebirth
+141,Pageant Boy,Ultimate grand supreme,0,Passive,Rebirth
+142,Scapular,You have been blessed,2,Passive,Rebirth
+143,Speed Ball,Speed + shot speed up,2,Passive,Rebirth
+144,Bum Friend,He's Greedy,1,Passive,Rebirth
+145,Guppy's Head,Reusable fly hive,2,Active,Rebirth
+146,Prayer Card,Reusable eternity,3,Active,Rebirth
+147,Notched Axe,Rocks didn't stand a chance,1,Active,Rebirth
+148,Infestation,Fly revenge,0,Passive,Rebirth
+149,Ipecac,Explosive shots,4,Passive,Rebirth
+150,Tough Love,Tooth shot,3,Passive,Rebirth
+151,The Mulligan,They grow inside,3,Passive,Rebirth
+152,Technology 2,Laser,2,Passive,Rebirth
+153,Mutant Spider,Quad Shot,3,Passive,Rebirth
+154,Chemical Peel,DMG up,2,Passive,Rebirth
+155,The Peeper,Plop!,2,Passive,Rebirth
+156,Habit,Item martyr,2,Passive,Rebirth
+157,Bloody Lust,RAGE!,2,Passive,Rebirth
+158,Crystal Ball,I see my future,3,Active,Rebirth
+159,Spirit of the Night,Scary,3,Passive,Rebirth
+160,Crack The Sky,Holy white death,2,Active,Rebirth
+161,Ankh,Eternal life?,1,Passive,Rebirth
+162,Celtic Cross,You feel blessed,1,Passive,Rebirth
+163,Ghost Baby,Spectral buddy,1,Passive,Rebirth
+164,The Candle,Reusable flame,2,Active,Rebirth
+165,Cat-O-Nine-Tails,Shot speed up + DMG up,3,Passive,Rebirth
+166,D20,Reroll the basics,2,Active,Rebirth
+167,Harlequin Baby,Double shot buddy,1,Passive,Rebirth
+168,Epic Fetus,On-demand air strike,4,Passive,Rebirth
+169,Polyphemus,Mega tears,4,Passive,Rebirth
+170,Daddy Longlegs,Daddy's love,3,Passive,Rebirth
+171,Spider Butt,Mass enemy slowdown + damage,1,Active,Rebirth
+172,Sacrificial Dagger,My fate protects me,2,Passive,Rebirth
+173,Mitre,You feel blessed,3,Passive,Rebirth
+174,Rainbow Baby,Random buddy,1,Passive,Rebirth
+175,Dad's Key,Opens all doors...,2,Active,Rebirth
+176,Stem Cells,HP up,1,Passive,Rebirth
+177,Portable Slot,Gamble 24/7,0,Active,Rebirth
+178,Holy Water,Splash!,3,Passive,Rebirth
+179,Fate,Flight eternal,3,Passive,Rebirth
+180,The Black Bean,Toot on touch,0,Passive,Rebirth
+181,White Pony,Flight + holy death,2,Active,Rebirth
+182,Sacred Heart,Homing shots + DMG up,4,Passive,Rebirth
+183,Toothpicks,Tears + shot speed up,3,Passive,Rebirth
+184,Holy Grail,Flight + HP up,3,Passive,Rebirth
+185,Dead Dove,Flight + spectral tears,3,Passive,Rebirth
+186,Blood Rights,Mass enemy damage at a cost,0,Active,Rebirth
+187,Guppy's Hairball,Swing it,1,Passive,Rebirth
+188,Abel,Mirrored buddy,0,Passive,Rebirth
+189,SMB Super Fan,All stats up,3,Passive,Rebirth
+190,Pyro,99 bombs,3,Passive,Rebirth
+191,3 Dollar Bill,Rainbow tears,3,Passive,Rebirth
+192,Telepathy for Dummies,Temporary psychic shot,1,Active,Rebirth
+193,MEAT!,DMG + HP up,2,Passive,Rebirth
+194,Magic 8 Ball,Shot speed up,1,Passive,Rebirth
+195,Mom's Coin Purse,What's all this...?,1,Passive,Rebirth
+196,Squeezy,Tears up,3,Passive,Rebirth
+197,Jesus Juice,Damage + range up,2,Passive,Rebirth
+198,Box,Stuff,0,Passive,Rebirth
+199,Mom's Key,Better chest loot +2 keys,3,Passive,Rebirth
+200,Mom's Eyeshadow,Charm tears,1,Passive,Rebirth
+201,Iron Bar,Concussive tears,2,Passive,Rebirth
+202,Midas Touch,Golden touch,2,Passive,Rebirth
+203,Humbleing Bundle,1+1free 4evar!,3,Passive,Rebirth
+204,Fanny pack,Filled with goodies,1,Passive,Rebirth
+205,Sharp plug,Charge with blood,2,Passive,Rebirth
+206,The Guillotine,An out-of-body experience,2,Passive,Rebirth
+207,Ball of Bandages,Gotta lick em all,2,Passive,Rebirth
+208,Champion Belt,DMG + Challenge up,3,Passive,Rebirth
+209,Butt Bombs,Toxic blast +5 bombs,2,Passive,Rebirth
+210,Gnawed Leaf,Unbreakable,1,Passive,Rebirth
+211,Spiderbaby,Spider revenge,0,Passive,Rebirth
+212,Guppy's Collar,Eternal life?,1,Passive,Rebirth
+213,Lost Contact,Shielded tears,2,Passive,Rebirth
+214,Anemic,Toxic blood,1,Passive,Rebirth
+215,Goat Head,He accepts your offering,3,Passive,Rebirth
+216,Ceremonial Robes,Sin up,3,Passive,Rebirth
+217,Mom's Wig,You feel itchy,2,Passive,Rebirth
+218,Placenta,HP up + regen,2,Passive,Rebirth
+219,Old Bandage,HP up,2,Passive,Rebirth
+220,Sad Bombs,Tear blast +5 bombs,2,Passive,Rebirth
+221,Rubber Cement,Bouncing tears,3,Passive,Rebirth
+222,Anti-Gravity,Antigravity tears + tears up,2,Passive,Rebirth
+223,Pyromaniac,Hurts so good +5 bombs,3,Passive,Rebirth
+224,Cricket's Body,Splash damage + tears up,3,Passive,Rebirth
+225,Gimpy,Sweet suffering,2,Passive,Rebirth
+226,Black Lotus,HP up x3,2,Passive,Rebirth
+227,Piggy Bank,My life savings,1,Passive,Rebirth
+228,Mom's Perfume,Fear shot,2,Passive,Rebirth
+229,Monstro's Lung,Charged attack,2,Passive,Rebirth
+230,Abaddon,Evil up + DMG up + fear shot,3,Passive,Rebirth
+231,Ball of Tar,Sticky feet...,2,Passive,Rebirth
+232,Stop Watch,Let's slow this down a bit,4,Passive,Rebirth
+233,Tiny Planet,Orbiting tears + range up,0,Passive,Rebirth
+234,Infestation 2,Infestation shot,3,Passive,Rebirth
+236,E. Coli,Turdy Touch,1,Passive,Rebirth
+237,Death's Touch,Penetrative shots + DMG up,3,Passive,Rebirth
+238,Key Piece #1,???,0,Passive,Rebirth
+239,Key Piece #2,???,0,Passive,Rebirth
+240,Experimental Treatment,"Some stats up, some stats down",1,Passive,Rebirth
+241,Contract From Below,"Wealth, but at what cost?",3,Passive,Rebirth
+242,Infamy,Damage reduction,2,Passive,Rebirth
+243,Trinity Shield,You feel guarded,2,Passive,Rebirth
+244,Tech.5,It's still being tested,3,Passive,Rebirth
+245,20/20,Double shot,4,Passive,Rebirth
+246,Blue Map,Secrets,2,Passive,Rebirth
+247,BFFS!,Your friends rule!,2,Passive,Rebirth
+248,Hive Mind,Giant spiders and flies,2,Passive,Rebirth
+249,There's Options,More options,3,Passive,Rebirth
+250,Bogo Bombs,1+1 bombs,1,Passive,Rebirth
+251,Starter Deck,Extra card room,2,Passive,Rebirth
+252,Little Baggy,Extra pill room,0,Passive,Rebirth
+253,Magic Scab,HP + luck up,2,Passive,Rebirth
+254,Blood Clot,DMG + range up,2,Passive,Rebirth
+255,Screw,Tears + shot speed up,3,Passive,Rebirth
+256,Hot Bombs,Burning blast +5 bombs,1,Passive,Rebirth
+257,Fire Mind,Flaming tears,2,Passive,Rebirth
+258,Missing No,Syntax error,0,Passive,Rebirth
+259,Dark Matter,Fear shot,3,Passive,Rebirth
+260,Black Candle,Curse of immunity + evil up,3,Passive,Rebirth
+261,Proptosis,Short range mega tears,3,Passive,Rebirth
+262,Missing Page 2,Evil up + your enemies will pay,0,Passive,Rebirth
+264,Smart Fly,Revenge fly,2,Passive,Rebirth
+265,Dry Baby,Immortal friend,3,Passive,Rebirth
+266,Juicy Sack,Sticky babies,2,Passive,Rebirth
+267,Robo-Baby 2.0,We worked out all the kinks,1,Passive,Rebirth
+268,Rotten Baby,Infested friend,3,Passive,Rebirth
+269,Headless Baby,Bloody friend,1,Passive,Rebirth
+270,Leech,Blood sucker,2,Passive,Rebirth
+271,Mystery Sack,?,2,Passive,Rebirth
+272,BBF,Big beautiful fly,1,Passive,Rebirth
+273,Bob's Brain,Explosive thoughts,1,Passive,Rebirth
+274,Best Bud,Sworn protector,0,Passive,Rebirth
+275,Lil Brimstone,Evil friend,2,Passive,Rebirth
+276,Isaac's Heart,Protect it,0,Passive,Rebirth
+277,Lil Haunt,Fear him,1,Passive,Rebirth
+278,Dark Bum,He wants to take your life,3,Passive,Rebirth
+279,Big Fan,Fat protector,2,Passive,Rebirth
+280,Sissy Long Legs,She loves you,1,Passive,Rebirth
+281,Punching Bag,Scape goat,1,Passive,Rebirth
+282,How To Jump,It's time you learned how,1,Active,Rebirth
+283,D100,REEROLLLLL!,3,Active,Rebirth
+284,D4,Reroll into something else,2,Active,Rebirth
+285,D10,Rerolls enemies,1,Active,Rebirth
+286,Blank Card,Card Mimic,2,Active,Rebirth
+287,Book of Secrets,??????,1,Active,Rebirth
+288,Box of Spiders,It's a box of spiders,1,Active,Rebirth
+289,Red Candle,Flame on,2,Active,Rebirth
+290,The Jar,Save your life,0,Active,Rebirth
+291,FLUSH!,...,1,Active,Rebirth
+292,Satanic Bible,Reusable evil... but at what cost?,4,Active,Rebirth
+293,Head of Krampus,Krampus rage,2,Active,Rebirth
+294,Butter Bean,Reusable knockback,1,Active,Rebirth
+295,Magic Fingers,Pay to play,1,Active,Rebirth
+296,Converter,Convert your soul,2,Active,Rebirth
+297,Pandora's Box,? ?,2,Active,Rebirth
+298,Unicorn Stump,You feel stumped,1,Active,Rebirth
+299,Taurus,Speed down + rage is building,1,Passive,Rebirth
+300,Aries,Ramming speed,2,Passive,Rebirth
+301,Cancer,HP up + you feel protected,3,Passive,Rebirth
+302,Leo,Stompy,1,Passive,Rebirth
+303,Virgo,You feel refreshed and protected,2,Passive,Rebirth
+304,Libra,You feel balanced,1,Passive,Rebirth
+305,Scorpio,Poison tears,3,Passive,Rebirth
+306,Sagittarius,Penetrative shot + speed up,3,Passive,Rebirth
+307,Capricorn,All stats up,3,Passive,Rebirth
+308,Aquarius,A trail of tears,2,Passive,Rebirth
+309,Pisces,Tears up + knockback shot,2,Passive,Rebirth
+310,Eve's Mascara,Shot speed down + DMG up,3,Passive,Rebirth
+311,Judas' Shadow,Sweet revenge,3,Passive,Rebirth
+312,Maggy's Bow,HP up + you feel healthy,2,Passive,Rebirth
+313,Holy Mantle,Holy shield,4,Passive,Rebirth
+314,Thunder Thighs,HP + speed down + you feel strong,1,Passive,Rebirth
+315,Strange Attractor,Magnetic tears,0,Passive,Rebirth
+316,Cursed Eye,Cursed charged shot,0,Passive,Rebirth
+317,Mysterious Liquid,Toxic splash damage,3,Passive,Rebirth
+318,Gemini,Conjoined friend,1,Passive,Rebirth
+319,Cain's Other Eye,Near sighted friend,2,Passive,Rebirth
+320,???'s Only Friend,Controlled friend,2,Passive,Rebirth
+321,Samson's Chains,The ol' ball and chain,1,Passive,Rebirth
+322,Mongo Baby,Mongo friend,2,Passive,Rebirth
+323,Isaac's Tears,Collected tears,1,Active,Rebirth
+324,Undefined,Undefined,2,Active,Rebirth
+325,Scissors,Lose your head,1,Active,Rebirth
+326,Breath of Life,Invincibility at a cost,1,Active,Rebirth
+327,The Polaroid,Fate chosen,2,Passive,Rebirth
+328,The Negative,Fate chosen,2,Passive,Rebirth
+329,The Ludovico Technique,Controlled tears,2,Passive,Rebirth
+330,Soy Milk,DMG down + tears way up,2,Passive,Rebirth
+331,Godhead,God tears,4,Passive,Rebirth
+332,Lazarus' Rags,Eternal life?,1,Passive,Rebirth
+333,The Mind,I know all,3,Passive,Rebirth
+334,The Body,I feel all,3,Passive,Rebirth
+335,The Soul,I am all,3,Passive,Rebirth
+336,Dead Onion,Toxic aura tears,3,Passive,Rebirth
+337,Broken Watch,I think its broken,1,Passive,Rebirth
+338,Boomerang,It will never leave you,1,Active,Rebirth
+339,Safety Pin,Evil up + range + shot speed,1,Passive,Rebirth
+340,Caffeine Pill,Speed up + size down,1,Passive,Rebirth
+341,Torn Photo,Tears + shot speed up,3,Passive,Rebirth
+342,Blue Cap,HP + tears + shot speed down,3,Passive,Rebirth
+343,Latch Key,Luck up,1,Passive,Rebirth
+344,Match Book,Evil up,1,Passive,Rebirth
+345,Synthoil,DMG up + range,3,Passive,Rebirth
+346,A Snack,HP up,1,Passive,Rebirth
+347,Diplopia,Double item vision,3,Active,Afterbirth
+348,Placebo,Pill mimic,2,Active,Afterbirth
+349,Wooden Nickel,Flip a coin,1,Active,Afterbirth
+350,Toxic Shock,Mass poison,3,Passive,Afterbirth
+351,Mega Bean,Giga fart!,1,Active,Afterbirth
+352,Glass Cannon,Be gentle...,1,Active,Afterbirth
+353,Bomber Boy,Explosive blast!,2,Passive,Afterbirth
+354,Crack Jacks,Don't swallow the prize!,2,Passive,Afterbirth
+355,Mom's Pearls,Range + luck up,2,Passive,Afterbirth
+356,Car Battery,Double charge!,3,Passive,Afterbirth
+357,Box of Friends,Double your friends,1,Active,Afterbirth
+358,The Wiz,Double wiz shot!,0,Passive,Afterbirth
+359,8 Inch Nails,Stick it to 'em!,3,Passive,Afterbirth
+360,Incubus,Dark friend,4,Passive,Afterbirth
+361,Fate's Reward,Your fate beside you,2,Passive,Afterbirth
+362,Lil Chest,What's in the box?,2,Passive,Afterbirth
+363,Sworn Protector,Protective friend,3,Passive,Afterbirth
+364,Friend Zone,Friendly fly,1,Passive,Afterbirth
+365,Lost Fly,Lost protector,2,Passive,Afterbirth
+366,Scatter Bombs,We put bombs in your bombs!,1,Passive,Afterbirth
+367,Sticky Bombs,Egg sack bombs!,2,Passive,Afterbirth
+368,Epiphora,Intensifying tears,2,Passive,Afterbirth
+369,Continuum,Transcendent tears,2,Passive,Afterbirth
+370,Mr. Dolly,Range + tears up,3,Passive,Afterbirth
+371,Curse of The Tower,You feel cursed...,0,Passive,Afterbirth
+372,Charged Baby,Bbbzzzzzt!,3,Passive,Afterbirth
+373,Dead Eye,Accuracy brings power!,3,Passive,Afterbirth
+374,Holy Light!,Holy shot!,3,Passive,Afterbirth
+375,Host Hat,Nice hat!,3,Passive,Afterbirth
+376,Restock,Never ending stores!,2,Passive,Afterbirth
+377,Bursting Sack,Spider love,1,Passive,Afterbirth
+378,No. 2,Uh oh...,2,Passive,Afterbirth
+379,Pupula Duplex,Wide shot,2,Passive,Afterbirth
+380,Pay To Play,Money talks,2,Passive,Afterbirth
+381,Eden's Blessing,Your future shines brighter,3,Passive,Afterbirth
+382,Friendly Ball,Gotta fetch 'em all!,1,Active,Afterbirth
+383,Tear Detonator,Remote tear detonation,1,Active,Afterbirth
+384,Lil Gurdy,A gurd of your own!,2,Passive,Afterbirth
+385,Bumbo,Bumbo want coin!,1,Passive,Afterbirth
+386,D12,Rerolls rocks,1,Active,Afterbirth
+387,Censer,Peace be with you,3,Passive,Afterbirth
+388,Key Bum,He wants your keys!,0,Passive,Afterbirth
+389,Rune Bag,Rune generator,3,Passive,Afterbirth
+390,Seraphim,Sworn friend,3,Passive,Afterbirth
+391,Betrayal,Turn your enemy,1,Passive,Afterbirth
+392,Zodiac,The heavens will change you,1,Passive,Afterbirth
+393,Serpent's Kiss,The kiss of death,2,Passive,Afterbirth
+394,Marked,Directed tears,1,Passive,Afterbirth
+395,Tech X,Laser ring tears,4,Passive,Afterbirth
+396,Ventricle Razor,Short cutter,1,Active,Afterbirth
+397,Tractor Beam,Controlled tears,3,Passive,Afterbirth
+398,God's Flesh,Shrink shot!,1,Passive,Afterbirth
+399,Maw of The Void,Consume thy enemy!,3,Passive,Afterbirth
+400,Spear of Destiny,Your destiny,2,Passive,Afterbirth
+401,Explosivo,Sticky bomb shot!,3,Passive,Afterbirth
+402,Chaos,!!!,3,Passive,Afterbirth
+403,Spider Mod,Mod buddy!,1,Passive,Afterbirth
+404,Farting Baby,He farts!,1,Passive,Afterbirth
+405,GB Bug,"Game breaking bug, right away!",1,Passive,Afterbirth
+406,D8,Reroll stats,2,Active,Afterbirth
+407,Purity,Aura stat boost,3,Passive,Afterbirth
+408,Athame,Call to the void,3,Passive,Afterbirth
+409,Empty Vessel,I reward an empty vessel,2,Passive,Afterbirth
+410,Evil Eye,Eye shot!,2,Passive,Afterbirth
+411,Lusty Blood,Their blood brings rage!,3,Passive,Afterbirth
+412,Cambion Conception,Feed them hate,2,Passive,Afterbirth
+413,Immaculate Conception,Feed them love,1,Passive,Afterbirth
+414,More Options,There are even more options!,3,Passive,Afterbirth
+415,Crown of Light,The untainted gain power,4,Passive,Afterbirth
+416,Deep Pockets,More stuff to carry!,2,Passive,Afterbirth
+417,Succubus,Damage booster,3,Passive,Afterbirth
+418,Fruit Cake,Rainbow effects!,3,Passive,Afterbirth
+419,Teleport 2.0,I-teleport!,3,Active,Afterbirth
+420,Black Powder,Spin the black circle!,1,Passive,Afterbirth
+421,Kidney Bean,Love toots!,1,Active,Afterbirth
+422,Glowing Hour Glass,Turn back time,3,Active,Afterbirth
+423,Circle of Protection,Protect me from myself,2,Passive,Afterbirth
+424,Sack Head,More sacks!,3,Passive,Afterbirth
+425,Night Light,Scared of the dark?,1,Passive,Afterbirth
+426,Obsessed Fan,Follows my every move...,0,Passive,Afterbirth
+427,Mine Crafter,Booom!,1,Active,Afterbirth
+428,PJs,You feel cozy,2,Passive,Afterbirth
+429,Head of the Keeper,Penny tears!,2,Passive,Afterbirth
+430,Papa Fly,Turret follower,1,Passive,Afterbirth
+431,Multidimensional Baby,ydduB Buddy,2,Passive,Afterbirth
+432,Glitter Bombs,Prize bombs!,2,Passive,Afterbirth
+433,My Shadow,Me! And my shaaaadow!,2,Passive,Afterbirth
+434,Jar of Flies,Gotta catch 'em all?,2,Active,Afterbirth
+435,Lil Loki,4-way buddy!,1,Passive,Afterbirth
+436,Milk!,Dont cry over it...,1,Passive,Afterbirth
+437,D7,Reroll rewards!,1,Active,Afterbirth
+438,Binky,Memories...,3,Passive,Afterbirth
+439,Mom's Box,What's inside?,2,Active,Afterbirth
+440,Kidney Stone,Matt's kidney stone,2,Passive,Afterbirth
+441,Mega Blast,Laser breath,4,Active,Afterbirth
+442,Dark Prince's Crown,Loss is power,1,Passive,Afterbirth Plus
+443,Apple!,Trick or treat?,3,Passive,Afterbirth Plus
+444,Lead Pencil,Hes a bleeder!,3,Passive,Afterbirth Plus
+445,Dog Tooth,Bark at the moon!,2,Passive,Afterbirth Plus
+446,Dead Tooth,Halitosis,1,Passive,Afterbirth Plus
+447,Linger Bean,Crying makes me toot,0,Passive,Afterbirth Plus
+448,Shard of Glass,Blood and guts!,1,Passive,Afterbirth Plus
+449,Metal Plate,It itches...,1,Passive,Afterbirth Plus
+450,Eye of Greed,Gold tears!,2,Passive,Afterbirth Plus
+451,Tarot Cloth,I see the future,2,Passive,Afterbirth Plus
+452,Varicose Veins,I'm leaking...,1,Passive,Afterbirth Plus
+453,Compound Fracture,Bone tears!,3,Passive,Afterbirth Plus
+454,Polydactyly,Hold me!,2,Passive,Afterbirth Plus
+455,Dad's Lost Coin,I remember this...,1,Passive,Afterbirth Plus
+456,Midnight Snack,HP up,1,Passive,Afterbirth Plus
+457,Cone Head,Hard headed!,2,Passive,Afterbirth Plus
+458,Belly Button,Whats in there?,3,Passive,Afterbirth Plus
+459,Sinus Infection,Booger tears!,3,Passive,Afterbirth Plus
+460,Glaucoma,Blind tears!,1,Passive,Afterbirth Plus
+461,Parasitoid,Egg tears!,3,Passive,Afterbirth Plus
+462,Eye of Belial,Possessed tears!,3,Passive,Afterbirth Plus
+463,Sulfuric Acid,Acid tears!,2,Passive,Afterbirth Plus
+464,Glyph of Balance,A gift from above,2,Passive,Afterbirth Plus
+465,Analog Stick,360 tears!,2,Passive,Afterbirth Plus
+466,Contagion,Outbreak!,2,Passive,Afterbirth Plus
+467,Finger!,Watch where you point that!,1,Passive,Afterbirth Plus
+468,Shade,It follows,0,Passive,Afterbirth Plus
+469,Depression,:(,1,Passive,Afterbirth Plus
+470,Hushy,Lil hush!,0,Passive,Afterbirth Plus
+471,Lil Monstro,Ain't he cute?,2,Passive,Afterbirth Plus
+472,King Baby,Lord of the dead!,1,Passive,Afterbirth Plus
+473,Big Chubby,Chub chub,2,Passive,Afterbirth Plus
+475,Plan C,My last resort,0,Active,Afterbirth Plus
+476,D1,What will it be?,2,Active,Afterbirth Plus
+477,Void,Consume,4,Active,Afterbirth Plus
+478,Pause,Stop!,1,Active,Afterbirth Plus
+479,Smelter,Trinket melter!,3,Active,Afterbirth Plus
+480,Compost,Gain more friends!,1,Active,Afterbirth Plus
+481,Dataminer,109,0,Active,Afterbirth Plus
+482,Clicker,Change,0,Active,Afterbirth Plus
+483,MaMa Mega!,BOOOOOOOOOM!,3,Active,Afterbirth Plus
+484,Wait What?,I can't believe it's not butter bean!,1,Active,Afterbirth Plus
+485,Crooked Penny,50/50,2,Active,Afterbirth Plus
+486,Dull Razor,I feel numb...,1,Active,Afterbirth Plus
+487,Potato Peeler,A pound of flesh...,2,Active,Afterbirth Plus
+488,Metronome,Waggles a finger,1,Active,Afterbirth Plus
+489,D Infinity,Reroll forever,4,Active,Afterbirth Plus
+490,Eden's Soul,...,3,Active,Afterbirth Plus
+491,Acid Baby,Pills pills pills!,2,Passive,Afterbirth Plus
+492,YO LISTEN!,Yo listen!,2,Passive,Afterbirth Plus
+493,Adrenaline,Panic - power,2,Passive,Afterbirth Plus
+494,Jacob's Ladder,Electric tears,3,Passive,Afterbirth Plus
+495,Ghost Pepper,Flame tears,4,Passive,Afterbirth Plus
+496,Euthanasia,Needle shot,3,Passive,Afterbirth Plus
+497,Camo Undies,Camo kid,3,Passive,Afterbirth Plus
+498,Duality,You feel very balanced,1,Passive,Afterbirth Plus
+499,Eucharist,Peace be with you,3,Passive,Afterbirth Plus
+500,Sack of Sacks,Gives Sacks!,3,Passive,Afterbirth Plus
+501,Greed's Gullet,Money = Health!,1,Passive,Afterbirth Plus
+502,Large Zit,Creep shots,1,Passive,Afterbirth Plus
+503,Little Horn,Big brother is watching,3,Passive,Afterbirth Plus
+504,Brown Nugget,Friendly Fly,0,Active,Afterbirth Plus
+505,Poke Go,Gotta catch em...,2,Passive,Afterbirth Plus
+506,BackStabber,Watch your back!,3,Passive,Afterbirth Plus
+507,Sharp Straw,More blood!,2,Active,Afterbirth Plus
+508,Mom's Razor,It's sharp!,2,Passive,Afterbirth Plus
+509,Bloodshot Eye,Bloody friend,1,Passive,Afterbirth Plus
+510,Delirious,Unleash the power!,1,Active,Afterbirth Plus
+511,Angry Fly,He's violent,1,Passive,Afterbirth Plus
+512,Black Hole,Nothing can escape,1,Active,Afterbirth Plus
+513,Bozo,Party time!,2,Passive,Afterbirth Plus
+514,Broken Modem,LAG!,3,Passive,Afterbirth Plus
+515,Mystery Gift,Wrapped up nice for you!,3,Active,Afterbirth Plus
+516,Sprinkler,Sprinkles.,2,Active,Afterbirth Plus
+517,Fast Bombs,Faster Bomb Drops!,1,Passive,Afterbirth Plus
+518,Buddy in a Box,What could it be?!,2,Passive,Afterbirth Plus
+519,Lil Delirium,He's Delirious,2,Passive,Afterbirth Plus
+520,Jumper Cables,Bloody recharge!,3,Passive,Afterbirth Plus
+521,Coupon,Allow 6 weeks for delivery,2,Active,Afterbirth Plus
+522,Telekinesis,The power of mind!,1,Active,Afterbirth Plus
+523,Moving Box,Pack and unpack,1,Active,Afterbirth Plus
+524,Technology Zero,Static tears!,3,Passive,Afterbirth Plus
+525,Leprosy,You're tearing me apart!,1,Passive,Afterbirth Plus
+526,7 Seals,Lil Harbingers!,2,Passive,Afterbirth Plus
+527,Mr. ME!,Caaan Do!,3,Active,Afterbirth Plus
+528,Angelic Prism,Eclipsed by the moon,3,Passive,Afterbirth Plus
+529,Pop!,Eyeball tears!,1,Passive,Afterbirth Plus
+530,Death's List,Just hope you're not next,2,Passive,Afterbirth Plus
+531,Haemolacria,I'm seeing red...,4,Passive,Afterbirth Plus
+532,Lachryphagy,Feed them!,2,Passive,Afterbirth Plus
+533,Trisagion,Smite thy enemy,3,Passive,Afterbirth Plus
+534,Schoolbag,Extra active item room,3,Passive,Afterbirth Plus
+535,Blanket,You feel safe,2,Passive,Afterbirth Plus
+536,Sacrificial Altar,He demands a sacrifice,2,Active,Afterbirth Plus
+537,Lil Spewer,Puking buddy,1,Passive,Afterbirth Plus
+538,Marbles,Choking hazard,2,Passive,Afterbirth Plus
+539,Mystery Egg,Sacrificial insemination,1,Passive,Afterbirth Plus
+540,Flat Stone,Skipping tears,2,Passive,Afterbirth Plus
+541,Marrow,HP up?,1,Passive,Afterbirth Plus
+542,Slipped Rib,Projectile shield,2,Passive,Afterbirth Plus
+543,Hallowed Ground,Portable sanctuary,1,Passive,Afterbirth Plus
+544,Pointy Rib,Stabbing time,2,Passive,Afterbirth Plus
+545,Book of the Dead,Rise from the grave,3,Active,Afterbirth Plus
+546,Dad's Ring,Father's blessing,3,Passive,Afterbirth Plus
+547,Divorce Papers,Tears up + you feel empty,3,Passive,Afterbirth Plus
+548,Jaw Bone,Fetch,1,Passive,Afterbirth Plus
+549,Brittle Bones,Everything hurts,3,Passive,Afterbirth Plus
+550,Broken Shovel,It feels cursed,4,Active,Afterbirth Plus
+551,Broken Shovel,Lost but not forgotten,4,Passive,Afterbirth Plus
+552,Mom's Shovel,Lost but not forgotten,4,Active,Afterbirth Plus
+263,Clear Rune,Rune mimic,2,Active,Repentance
+553,Mucormycosis,Spore shot,3,Passive,Repentance
+554,2Spooky,4me,1,Passive,Repentance
+555,Golden Razor,Pain from gain,1,Active,Repentance
+556,Sulfur,Temporary demon form,2,Active,Repentance
+557,Fortune Cookie,Reusable fortunes,2,Active,Repentance
+558,Eye Sore,More eyes,1,Passive,Repentance
+559,120 Volt,Zap!,2,Passive,Repentance
+560,It Hurts,No it doesn't...,1,Passive,Repentance
+561,Almond Milk,DMG down + tears up + you feel nutty,1,Passive,Repentance
+562,Rock Bottom,It's only up from there,3,Passive,Repentance
+563,Nancy Bombs,Random blast +5 bombs,2,Passive,Repentance
+564,A Bar of Soap,Tears + shot speed up,3,Passive,Repentance
+565,Blood Puppy,What a cute little thing!,1,Passive,Repentance
+566,Dream Catcher,Sweet dreams,2,Passive,Repentance
+567,Paschal Candle,Keep the flame burning,3,Passive,Repentance
+568,Divine Intervention,Double tap shield,2,Passive,Repentance
+569,Blood Oath,Bleed me dry,1,Passive,Repentance
+570,Playdough Cookie,Tasty rainbow,3,Passive,Repentance
+571,Orphan Socks,Speed up + your feet feel stronger,2,Passive,Repentance
+572,Eye of the Occult,DMG up + range up + controlled tears,3,Passive,Repentance
+573,Immaculate Heart,Halo of tears,3,Passive,Repentance
+574,Monstrance,Purifying light,2,Passive,Repentance
+575,The Intruder,Invasive friend,3,Passive,Repentance
+576,Dirty Mind,Filthy friends,1,Passive,Repentance
+577,Damocles,A king's fortune... but at what cost?,2,Active,Repentance
+578,Free Lemonade,Party time!,1,Active,Repentance
+579,Spirit Sword,Divine blade,3,Passive,Repentance
+580,Red Key,Explore the other side,3,Active,Repentance
+581,Psy Fly,Flamboyant protector,4,Passive,Repentance
+582,Wavy Cap,Tears up. A mind changing experience!,1,Active,Repentance
+583,Rocket in a Jar,Rocket propulsion +5 bombs,2,Passive,Repentance
+584,Book of Virtues,Spiritual companionship,3,Active/Passive Item,Repentance
+585,Alabaster Box,A sacred offering,2,Active,Repentance
+586,The Stairway,Stairway to heaven,3,Passive,Repentance
+588,Sol,Radiant victory,2,Passive,Repentance
+589,Luna,More secrets,2,Passive,Repentance
+590,Mercurius,Speed up + you feel elusive,3,Passive,Repentance
+591,Venus,HP up + you feel pretty,2,Passive,Repentance
+592,Terra,Born to rock,3,Passive,Repentance
+593,Mars,Double tap dash,2,Passive,Repentance
+594,Jupiter,You're a gas giant!,2,Passive,Repentance
+595,Saturnus,Ring of tears,2,Passive,Repentance
+596,Uranus,Ice tears,3,Passive,Repentance
+597,Neptunus,Open the floodgates,3,Passive,Repentance
+598,Pluto,Size down,3,Passive,Repentance
+599,Voodoo Head,Extra curse rooms,2,Passive,Repentance
+600,Eye Drops,Tears up,3,Passive,Repentance
+601,Act of Contrition,"Tears up, you feel forgiven",3,Passive,Repentance
+602,Member Card,Exclusive access!,2,Passive,Repentance
+603,Battery Pack,Instant energy!,0,Passive,Repentance
+604,Mom's Bracelet,Mother's strength,1,Active,Repentance
+605,The Scooper,Plop!,1,Active,Repentance
+606,Ocular Rift,Stare into the abyss,3,Passive,Repentance
+607,Boiled Baby,Messy friend,1,Passive,Repentance
+608,Freezer Baby,Iced iced baby,2,Passive,Repentance
+609,Eternal D6,???,3,Active,Repentance
+610,Bird Cage,Fat buddy,1,Passive,Repentance
+611,Larynx,Hear my pain,2,Active,Repentance
+612,Lost Soul,Protect him,2,Passive,Repentance
+614,Blood Bombs,Bloody blast + HP up,2,Passive,Repentance
+615,Lil Dumpy,Puffy buddy,3,Passive,Repentance
+616,Bird's Eye,It burns,3,Passive,Repentance
+617,Lodestone,Magnetizing tears,3,Passive,Repentance
+618,Rotten Tomato,Delicious!,2,Passive,Repentance
+619,Birthright,???,3,Passive,Repentance
+619,Birthright (Tainted),???,3,Passive,Repentance
+621,Red Stew,Full HP + temporary DMG up,2,Passive,Repentance
+622,Genesis,In the beginning,3,Active,Repentance
+623,Sharp Key,Open your enemies,1,Active,Repentance
+624,Booster Pack,Collect them all!,1,Passive,Repentance
+625,Mega Mush,I'm a big boy now!,4,Active,Repentance
+626,Knife Piece 1,???,0,Passive,Repentance
+627,Knife Piece 2,???,0,Passive,Repentance
+628,Death Certificate,Where am I?,4,Active,Repentance
+629,Bot Fly,Defense drone,3,Passive,Repentance
+631,Meat Cleaver,Slice but no dice,1,Active,Repentance
+632,Evil Charm,Luck up + you feel protected,2,Passive,Repentance
+633,Dogma,Ascended,3,Passive,Repentance
+634,Purgatory,Help from beyond,2,Passive,Repentance
+635,Stitches,Bait and switch,1,Passive,Repentance
+636,R Key,Time to start over,4,Active,Repentance
+637,Knockout Drops,They pack a punch!,3,Passive,Repentance
+638,Eraser,Erase thy enemy,2,Active,Repentance
+639,Yuck Heart,Gross!,1,Active,Repentance
+640,Urn of Souls,Unleash their sorrow,3,Active,Repentance
+641,Akeldama,Spill your guts,2,Passive,Repentance
+642,Magic Skin,All your desires fulfilled,2,Active,Repentance
+643,Revelation,Awaken your faith,4,Passive,Repentance
+644,Consolation Prize,+1 to lowest stat,1,Passive,Repentance
+645,Tinytoma,Itching for revenge,1,Passive,Repentance
+646,Brimstone Bombs,Demon blast +5 bombs,2,Passive,Repentance
+647,4.5 Volt,Beat the juice out of them!,2,Passive,Repentance
+649,Fruity Plum,Bouncy friend,1,Passive,Repentance
+650,Plum Flute,Play time!,1,Active,Repentance
+651,Star of Bethlehem,Follow the light,3,Passive,Repentance
+652,Cube Baby,Kick it!,1,Passive,Repentance
+653,Vade Retro,Begone!,2,Active,Repentance
+654,False PHD,Worse pills + evil up,2,Passive,Repentance
+655,Spin to Win,Let it rip!,1,Passive,Repentance
+657,Vasculitis,Clogged enemies,1,Passive,Repentance
+658,Giant Cell,Micro friends,1,Passive,Repentance
+659,Tropicamide,Tear size + range up,1,Passive,Repentance
+660,Card Reading,A link to your future,3,Passive,Repentance
+661,Quints,They lurk inside,2,Passive,Repentance
+663,Tooth and Nail,You feel prickly,2,Passive,Repentance
+664,Binge Eater,All you can eat,4,Passive,Repentance
+665,Guppy's Eye,An eye for secrets,2,Passive,Repentance
+667,Strawman,A helping hand,2,Passive,Repentance
+668,Dad's Note,...,0,Passive,Repentance
+669,Sausage,All stats up,3,Passive,Repentance
+670,Options?,There might be options,2,Passive,Repentance
+671,Candy Heart,Power of love,1,Passive,Repentance
+672,A Pound of Flesh,Blood money,1,Passive,Repentance
+673,Redemption,Deliver me from evil,2,Passive,Repentance
+674,Spirit Shackles,Unfinished business,2,Passive,Repentance
+675,Cracked Orb,Shards of knowledge,1,Passive,Repentance
+676,Empty Heart,It multiplies,1,Passive,Repentance
+677,Astral Projection,The true out-of-body experience!,2,Passive,Repentance
+678,C Section,Fetus shots,4,Passive,Repentance
+679,Lil Abaddon,Abyssal friend,2,Passive,Repentance
+680,Montezuma's Revenge,Oh no...,2,Passive,Repentance
+681,Lil Portal,It hungers,1,Passive,Repentance
+682,Worm Friend,Clingy buddy,3,Passive,Repentance
+683,Bone Spurs,Break your enemies,2,Passive,Repentance
+684,Hungry Soul,Out for blood,2,Passive,Repentance
+685,Jar of Wisps,Your faith grows,2,Active,Repentance
+686,Soul Locket,Power of faith,1,Passive,Repentance
+687,Friend Finder,Best friends forever!,3,Active,Repentance
+688,Inner Child,Let him free,2,Passive,Repentance
+689,Glitched Crown,?????,4,Passive,Repentance
+690,Belly Jelly,Bounce away!,3,Passive,Repentance
+691,Sacred Orb,Destined for greatness,4,Passive,Repentance
+692,Sanguine Bond,He awaits your offering,1,Passive,Repentance
+693,The Swarm,Infest,2,Passive,Repentance
+694,Heartbreak,Eternal sorrow,3,Passive,Repentance
+695,Bloody Gust,May your rage bring haste,2,Passive,Repentance
+696,Salvation,Divine protection,3,Passive,Repentance
+697,Vanishing Twin,He wants revenge,2,Passive,Repentance
+698,Twisted Pair,Double trouble!,4,Passive,Repentance
+699,Azazel's Rage,Ancient power,2,Passive,Repentance
+700,Echo Chamber,I can see see the future future future,3,Passive,Repentance
+701,Isaac's Tomb,Buried memories,3,Passive,Repentance
+702,Vengeful Spirit,Hot blooded,1,Passive,Repentance
+703,Esau Jr,Lost brother,2,Active,Repentance
+704,Berserk!,Rip and tear,2,Active,Repentance
+705,Dark Arts,One with the shadows,2,Active,Repentance
+706,Abyss,Come forth from the depths,4,Active,Repentance
+707,Supper,HP up,1,Passive,Repentance
+708,Stapler,DMG up,3,Passive,Repentance
+709,Suplex!,Angel breaker,2,Active,Repentance
+710,Bag of Crafting,Make your destiny,3,Active,Repentance
+711,Flip,Life and death,4,Active,Repentance
+712,Lemegeton,Item summoner,3,Active,Repentance
+713,Sumptorium,Return,3,Active,Repentance
+714,Recall,Come back,0,Active,Repentance
+715,Hold,Saved for later,0,Active,Repentance
+716,Keeper's Sack,Spending power,3,Passive,Repentance
+717,Keeper's Kin,Under a rock,2,Passive,Repentance
+719,Keeper's Box,Portable shop,2,Active,Repentance
+720,Everything Jar,Anything is possible,3,Active,Repentance
+721,TMTRAINER,Isaac and his mother lived alone in a small house on a hill,0,Passive,Repentance
+722,Anima Sola,Repent,2,Active,Repentance
+723,Spindown Dice,-1,4,Active,Repentance
+724,Hypercoagulation,Thick blooded,2,Passive,Repentance
+725,IBS,Your stomach rumbles,0,Passive,Repentance
+726,Hemoptysis,Double tap sneeze,2,Passive,Repentance
+727,Ghost Bombs,Spooky blast +5 bombs,2,Passive,Repentance
+728,Gello,Demonic gestation,3,Active,Repentance
+729,Decap Attack,Chuck away!,2,Active,Repentance
+730,Glass Eye,DMG + luck up,3,Passive,Repentance
+731,Stye,DMG + range up,2,Passive,Repentance
+732,Mom's Ring,DMG up,3,Passive,Repentance

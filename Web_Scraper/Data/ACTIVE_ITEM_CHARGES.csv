@@ -1,0 +1,169 @@
+item_id,item_charge
+33,4 rooms
+34,3 rooms
+35,3 rooms
+36,1 room
+37,2 rooms
+38,1 room
+39,3 rooms
+40,Instant
+41,2 rooms
+42,2 rooms
+44,2 rooms
+45,4 rooms
+47,2 rooms
+49,2 rooms
+56,2 rooms
+58,3 rooms
+65,3 rooms
+66,2 rooms
+77,4 rooms
+78,6 rooms
+83,6 rooms
+84,6 rooms
+85,6 rooms
+86,3 rooms
+93,4 rooms
+97,4 rooms
+102,6 rooms
+105,6 rooms
+107,4 rooms
+111,1 room
+123,6 rooms
+124,2 rooms
+126,Instant
+127,Instant (One time use)
+130,2 rooms
+133,Instant
+135,Instant
+136,3 rooms
+137,Instant
+145,1 room
+146,6 rooms
+147,At the start of each new floor
+158,6 rooms
+160,4 rooms
+164,Timed (A few seconds)
+166,6 rooms
+171,2 rooms
+175,2 rooms
+177,Instant
+181,2 rooms
+186,Instant
+192,2 rooms
+282,Instant
+283,6 rooms
+284,6 rooms
+285,2 rooms
+286,Varies
+287,6 rooms
+288,2 rooms
+289,Timed (A few seconds)
+290,Instant
+291,4 rooms
+292,6 rooms
+293,3 rooms
+294,Timed (A few seconds)
+295,Instant
+296,3 rooms
+297,One time use
+298,1 room
+323,1 bar per tear fired
+324,6 rooms
+325,4 rooms
+326,Timed (1 bar per second)
+338,Timed (A few seconds)
+347,Instant (One time use)
+348,Varies
+349,1 room
+351,3 rooms
+352,5 seconds
+357,3 rooms
+382,2 rooms
+383,15 seconds
+386,3 rooms
+396,Instant
+406,4 Rooms
+419,4 rooms
+421,1 Rooms
+422,None (Max 3 use per floor)
+427,1 room
+434,Instant
+437,3 rooms
+439,4 rooms
+441,12 rooms
+475,One time use
+476,4 rooms
+477,6 rooms
+478,2 rooms
+479,6 rooms
+480,2 rooms
+481,4 rooms
+482,6 rooms
+483,One time use
+484,10 seconds
+485,4 rooms
+486,2 rooms
+487,None
+488,2 rooms
+489,Varies
+490,12 rooms (one time use)
+504,7 seconds
+507,8 seconds
+510,12 rooms
+512,4 rooms
+515,One time use
+516,4 rooms
+521,6 rooms
+522,6 seconds
+523,4 rooms
+527,4 rooms
+536,Single use
+545,6 rooms
+550,4 rooms
+552,4 rooms
+263,Varies
+555,Instant
+556,3 rooms
+557,2 rooms
+577,One time use
+578,4 rooms
+580,4 rooms
+582,"Starts at 1 second, increasing by every time you use it. After 10 uses it stops auto recharging."
+584,Varies
+585,12 charges (one time use)
+604,1 second
+605,3 rooms
+609,2 rooms
+611,12 rooms (Can be used with partial charges)
+622,One time use
+623,Instant
+625,12 rooms
+628,1 time use
+631,2 rooms
+636,Single use
+638,1 room (Can only be used once per floor)
+639,4 rooms
+640,None (see above)
+642,6 rooms
+650,4 rooms
+653,Instant
+685,12 rooms
+687,4 rooms
+703,1 room
+704,Enemy damage taken = charge
+705,7 seconds
+706,4 rooms
+709,8 seconds
+710,Instant
+711,6 rooms
+712,6 rooms
+713,10 seconds
+714,3 seconds
+715,Instant
+719,4 rooms
+720,12 rooms
+722,15 seconds
+723,6 rooms
+728,2 rooms
+729,4 seconds

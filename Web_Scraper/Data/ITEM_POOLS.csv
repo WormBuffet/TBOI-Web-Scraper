@@ -1,0 +1,1182 @@
+item_id,item_pool
+1,Item Room
+2,Item Room
+3,Item Room
+4,Item Room
+5,Item Room
+6,Item Room
+7,Item Room
+7,Angel Room
+8,Item Room
+8,Devil Room
+9,None (Arcade shell game only)
+10,Item Room
+10,Key Beggar
+11,Secret Room
+12,Item Room
+12,Mushrooms
+13,Item Room
+13,Demon Beggar
+13,Lust Miniboss
+14,Item Room
+14,Boss Room
+14,Demon Beggar
+15,Item Room
+15,Gluttony Miniboss
+16,Secret Room
+17,Item Room
+17,Secret Room
+18,None (Arcade machine only)
+19,Item Room
+20,Secret Room
+21,Shop
+21,Beggar
+22,Boss Room
+22,Challenge Room
+22,Beggar
+23,Boss Room
+23,Beggar
+23,Challenge Room
+24,Boss Room
+24,Beggar
+24,Challenge Room
+25,Boss Room
+25,Challenge Room
+25,Beggar
+26,Boss Room
+26,Beggar
+26,Challenge Room
+27,Boss Room
+28,Boss Room
+28,Gold/Stone Chest
+29,Boss Room
+29,Challenge Room
+29,Gold/Stone Chest
+29,Mom's Chest
+30,Boss Room
+30,Challenge Room
+30,Mom's Chest
+31,Boss Room
+31,Challenge Room
+31,Mom's Chest
+32,Boss Room
+32,Gold/Stone Chest
+33,Shop
+33,Library
+33,Angel Room
+34,Library
+34,Devil Room
+35,Library
+35,Secret Room
+35,Devil Room
+36,Item Room
+37,Item Room
+37,Wrath Miniboss
+37,Bomb Beggar
+38,Item Room
+38,Gold Chest
+39,Item Room
+39,Challenge Room
+39,Mom's Chest
+40,Item Room
+41,Item Room
+41,Challenge Room
+41,Mom's Chest
+42,Item Room
+42,Sloth Miniboss
+44,Item Room
+45,Item Room
+45,Super Lust Miniboss
+46,Item Room
+46,Beggar
+47,Item Room
+48,Item Room
+49,Item Room
+49,Envy Miniboss
+49,Super Envy Miniboss
+50,Steven Boss
+51,Boss Room
+51,Curse Room
+51,Devil Room
+51,Demon Beggar
+51,Crane Game
+52,Item Room
+53,Item Room
+54,Shop
+54,Beggar
+55,Item Room
+55,Challenge Room
+55,Mom's Chest
+56,Item Room
+57,Item Room
+57,Key Beggar
+58,Item Room
+58,Library
+60,Shop
+62,Item Room
+63,Shop
+64,Shop
+64,Greed Miniboss
+64,Shopkeeper
+65,Item Room
+65,Library
+65,Pride Miniboss
+66,Item Room
+67,Item Room
+67,Devil Room
+68,Item Room
+69,Item Room
+70,Boss Room
+70,Demon Beggar
+71,Item Room
+72,Item Room
+72,Angel Room
+73,None (Horsemen boss only)
+74,Devil Room
+74,Gold Chest
+74,Super Greed Miniboss
+75,Item Room
+75,Shop
+76,Item Room
+77,Item Room
+78,Item Room
+78,Library
+78,Angel Room
+79,Curse Room
+79,Devil Room
+79,Demon Beggar
+80,Devil Room
+80,Curse Room
+80,Demon Beggar
+81,Devil Room
+81,Curse Room
+81,Red Chest
+81,Super Pride Miniboss
+82,Devil Room
+82,Demon Beggar
+83,Devil Room
+83,Demon Beggar
+84,Secret Room
+84,Devil Room
+85,Item Room
+85,Shop
+86,Item Room
+87,Item Room
+87,Demon Beggar
+88,Item Room
+89,Item Room
+90,None (Tinted rock only)
+91,Item Room
+92,Item Room
+92,Boss Room
+93,Item Room
+94,Item Room
+95,Item Room
+96,Item Room
+96,C.H.A.D. Boss
+97,Item Room
+97,Library
+97,Devil Room
+98,Item Room
+98,Angel Room
+99,Item Room
+99,Gish Boss
+100,Item Room
+100,Steven Boss
+101,Item Room
+101,Angel Room
+102,Item Room
+102,Shop
+102,Challenge Room
+102,Beggar
+102,Demon Beggar
+102,Mom's Chest
+103,Item Room
+104,Item Room
+105,Item Room
+106,Item Room
+106,Bomb Beggar
+106,Super Wrath Miniboss
+107,Item Room
+108,Item Room
+108,Angel Room
+109,Item Room
+109,Devil Room
+110,Item Room
+110,Challenge Room
+110,Mom's Chest
+111,Item Room
+111,Beggar
+112,Angel Room
+113,Item Room
+113,Devil Room
+114,Item Room
+114,Devil Room
+114,Challenge Room
+114,Mom's Chest
+115,Item Room
+115,Devil Room
+115,Greed Mode Devil Room
+116,Shop
+117,Item Room
+118,Devil Room
+119,None (Blood Donation machine only)
+120,Item Room
+120,Secret Room
+121,Item Room
+121,Secret Room
+122,Devil Room
+122,Demon Beggar
+123,Item Room
+123,Devil Room
+123,Library
+124,Item Room
+124,Angel Room
+125,Item Room
+125,Bomb Beggar
+126,Item Room
+126,Curse Room
+126,Demon Beggar
+127,Item Room
+127,Secret Room
+127,Devil Room
+127,Demon Beggar
+128,Item Room
+129,Item Room
+129,Super Gluttony Miniboss
+130,None (Headless horseman only)
+131,Item Room
+132,None (Krampus only)
+133,Devil Room
+133,Curse Room
+133,Red Chest
+134,Devil Room
+134,Curse Room
+134,Red Chest
+135,None (Blood donation machine only)
+136,Item Room
+137,Item Room
+137,Shop
+137,Bomb Beggar
+138,Item Room
+138,Angel Room
+139,Shop
+139,Mom's Chest
+140,Item Room
+140,Super Sloth Miniboss
+140,Bomb Beggar
+141,Boss Room
+142,Item Room
+142,Angel Room
+143,Item Room
+143,Boss Room
+143,Demon Beggar
+144,Item Room
+145,Devil Room
+145,Curse Room
+145,Red Chest
+145,Gold/Stone Chest
+146,Item Room
+146,Angel Room
+147,Shop
+147,Crane Game
+148,Item Room
+149,Item Room
+150,Item Room
+151,Item Room
+152,Item Room
+153,Item Room
+154,Item Room
+155,Item Room
+156,Shop
+156,Angel Room
+157,Item Room
+157,Devil Room
+158,None (Fortune machine only)
+159,Devil Room
+159,Demon Beggar
+160,Item Room
+161,Item Room
+162,Item Room
+162,Angel Room
+163,Item Room
+163,Devil Room
+164,Shop
+165,Boss Room
+166,Item Room
+167,Item Room
+168,Secret Room Item Room (very low weight)
+169,Item Room
+170,Item Room
+171,Item Room
+172,Item Room
+172,Devil Room
+173,Item Room
+173,Angel Room
+174,Item Room
+175,Item Room
+175,Key Beggar
+176,Item Room
+176,Boss Room
+177,Shop
+177,Beggar
+178,Item Room
+178,Angel Room
+179,Gold Chest
+180,Item Room
+180,Beggar
+181,None (Conquest boss only)
+182,Angel Room
+183,Boss Room
+184,Angel Room
+185,Angel Room
+186,Item Room
+186,Devil Room
+187,Devil Room
+188,Item Room
+189,Item Room
+190,Item Room
+190,Secret Room
+190,Bomb Beggar
+191,Item Room
+192,Item Room
+192,Library
+193,Boss Room
+194,Boss Room
+194,Gold/Stone Chest
+195,Shop
+195,Boss Room
+195,Challenge Room
+195,Beggar
+195,Demon Beggar
+195,Mom's Chest
+196,Boss Room
+196,Gold/Stone Chest
+197,Boss Room
+197,Angel Room
+198,Boss Room
+198,Challenge Room
+199,Shop
+199,Challenge Room
+199,Key Beggar
+199,Mom's Chest
+200,Item Room
+200,Challenge Room
+200,Mom's Chest
+201,Item Room
+202,Item Room
+203,Shop
+204,Shop
+204,Beggar
+205,Shop
+206,Item Room
+207,None (Horsemen boss only)
+208,Shop
+209,Item Room
+209,Bomb Beggar
+210,Item Room
+211,Item Room
+212,Devil Room
+212,Curse Room
+212,Red Chest
+213,Item Room
+213,Secret Room
+214,Item Room
+215,Devil Room
+215,Curse Room
+216,Devil Room
+216,Curse Room
+216,Demon Beggar
+217,Item Room
+217,Challenge Room
+217,Mom's Chest
+218,Boss Room
+219,Boss Room
+220,Item Room
+220,Bomb Beggar
+221,Item Room
+221,Greed Mode Item Room
+222,Item Room
+223,Item Room
+224,Item Room
+225,Item Room
+225,Devil Room
+225,Curse Room
+225,Demon Beggar
+226,Secret Room
+227,Item Room
+227,Shop
+228,Item Room
+228,Challenge Room
+228,Mom's Chest
+229,Item Room
+230,Devil Room
+230,Demon Beggar
+231,Item Room
+232,Shop
+233,Item Room
+234,Item Room
+236,Item Room
+237,Item Room
+237,Devil Room
+238,None (Angel statue only)
+239,None (Angel statue only)
+240,Item Room
+240,Boss Room
+240,Demon Beggar
+241,Devil Room
+241,Curse Room
+241,Demon Beggar
+242,Item Room
+242,Secret Room
+243,Angel Room
+244,Item Room
+245,Item Room
+246,Shop
+246,Beggar
+246,Key Beggar
+247,Shop
+247,Key Beggar
+248,Shop
+249,Shop
+250,Shop
+251,Shop
+252,Shop
+253,Boss Room
+254,Boss Room
+255,Boss Room
+255,Gold/Stone Chest
+256,Item Room
+256,Bomb Beggar
+257,Item Room
+258,Secret Room
+259,Devil Room
+259,Demon Beggar
+260,Shop
+260,Curse Room
+261,Item Room
+262,Devil Room
+262,Demon Beggar
+262,Secret Room
+264,Item Room
+264,Key Beggar
+265,Item Room
+266,Item Room
+267,Item Room
+268,Item Room
+268,Devil Room
+269,Item Room
+269,Devil Room
+270,Item Room
+271,Item Room
+271,Beggar
+271,Secret Room
+272,Item Room
+273,Item Room
+273,Rotten Beggar
+274,Item Room
+274,Key Beggar
+275,Item Room
+275,Devil Room
+276,Item Room
+277,Item Room
+278,Item Room
+278,Devil Room
+278,Demon Beggar
+279,Item Room
+280,Item Room
+281,Item Room
+282,Item Room
+282,Library
+283,Item Room
+284,Item Room
+285,Item Room
+286,Shop
+286,Secret Room
+287,Item Room
+287,Library
+287,Secret Room
+288,Item Room
+289,Shop
+290,Shop
+291,Item Room
+292,Item Room
+292,Library
+292,Devil Room
+293,None (Krampus only)
+294,Item Room
+294,Beggar
+295,Item Room
+295,Shop
+296,Shop
+297,Shop
+297,Red Chest
+298,Item Room
+299,Item Room
+300,Item Room
+301,Item Room
+302,Item Room
+303,Item Room
+304,Item Room
+305,Item Room
+306,Item Room
+307,Item Room
+308,Item Room
+309,Item Room
+310,Item Room
+311,Devil Room
+312,Item Room
+313,Item Room
+313,Angel Room
+314,Item Room
+315,Item Room
+316,Item Room
+316,Secret Room
+317,Item Room
+318,Item Room
+319,Item Room
+320,Item Room
+321,Item Room
+321,Secret Room
+322,Item Room
+323,Item Room
+324,Item Room
+325,Item Room
+326,Angel Room
+326,Greed Mode Angel Room
+327,None (Mom's foot boss only)
+328,None (Mom's foot boss only)
+329,Item Room
+330,Item Room
+331,Angel Room
+332,Item Room
+332,Angel Room
+333,Item Room
+333,Angel Room
+334,Item Room
+334,Angel Room
+335,Item Room
+335,Angel Room
+336,Item Room
+337,Shop
+338,Shop
+339,Boss Room
+340,Boss Room
+341,Boss Room
+341,Gold/Stone Chest
+342,Boss Room
+343,Boss Room
+343,Gold/Stone Chest
+343,Key Beggar
+344,Boss Room
+344,Gold/Stone Chest
+345,Boss Room
+346,Boss Room
+347,Shop
+348,Shop
+348,Greed Mode Shop
+349,Shop
+349,Greed Mode Item Room
+350,Item Room
+351,Item Room
+351,Greed Mode Item Room
+352,Item Room
+352,Greed Mode Item Room
+353,Item Room
+353,Greed Mode Item Room
+353,Bomb Beggar
+354,Boss Room
+354,Gold/Stone Chest
+355,Boss Room
+355,Gold/Stone Chest
+355,Mom's Chest
+356,Shop
+356,Greed Mode Shop
+357,Shop
+357,Greed Mode Item Room
+358,Item Room
+358,Greed Mode Item Room
+359,Item Room
+359,Greed Mode Item Room
+360,Devil Room
+360,Greed Mode Devil Room
+361,Item Room
+362,Item Room
+362,Greed Mode Item Room
+362,Beggar
+363,Angel Room
+363,Greed Mode Angel Room
+364,Item Room
+364,Greed Mode Item Room
+364,Key Beggar
+365,Item Room
+365,Greed Mode Item Room
+365,Key Beggar
+366,Item Room
+366,Greed Mode Item Room
+366,Bomb Beggar
+367,Item Room
+367,Greed Mode Item Room
+367,Bomb Beggar
+367,Bomb Beggar
+368,Item Room
+368,Greed Mode Item Room
+369,Item Room
+369,Greed Mode Item Room
+370,Boss Room
+370,Gold/Stone Chest
+371,Item Room
+371,Red Chest
+371,Curse Room
+371,Greed Mode Item Room
+372,Shop
+372,Greed Mode Shop
+373,Item Room
+373,Greed Mode Item Room
+374,Item Room
+374,Greed Mode Item Room
+374,Angel Room
+375,Item Room
+375,Greed Mode Item Room
+376,Shop
+376,Beggar
+377,Item Room
+377,Greed Mode Item Room
+378,Item Room
+378,Greed Mode Item Room
+379,Item Room
+379,Greed Mode Item Room
+380,Shop
+380,Greed Mode Item Room
+380,Greed Mode Shop
+381,Item Room
+382,Item Room
+382,Greed Mode Item Room
+383,Shop
+383,Greed Mode Item Room
+384,Item Room
+384,Greed Mode Item Room
+385,Item Room
+385,Beggar
+386,Item Room
+386,Greed Mode Shop
+387,Angel Room
+387,Greed Mode Angel Room
+388,Item Room
+388,Secret Room
+388,Key Beggar
+389,Item Room
+389,Secret Room
+390,Item Room
+390,Angel Room
+390,Greed Mode Angel Room
+391,Item Room
+391,Greed Mode Item Room
+391,Devil Room
+391,Greed Mode Devil Room
+392,Item Room
+392,Greed Mode Item Room
+393,Item Room
+393,Greed Mode Item Room
+394,Item Room
+394,Greed Mode Item Room
+395,Item Room
+395,Greed Mode Item Room
+396,Shop
+397,Item Room
+397,Greed Mode Item Room
+398,Item Room
+398,Greed Mode Item Room
+399,Devil Room
+399,Greed Mode Devil Room
+400,Angel Room
+400,Greed Mode Angel Room
+401,Item Room
+401,Greed Mode Item Room
+402,Shop
+402,Secret Room
+403,Shop
+403,Greed Mode Shop
+404,Item Room
+405,Item Room
+405,Secret Room
+405,Greed Mode Shop
+406,Item Room
+406,Greed Mode Shop
+407,Item Room
+407,Angel Room
+407,Greed Mode Item Room
+407,Greed Mode Angel Room
+408,Devil Room
+408,Curse Room
+408,Greed Mode Devil Room
+409,Devil Room
+409,Demon Beggar
+410,Item Room
+410,Greed Mode Item Room
+411,Item Room
+411,Devil Room
+411,Greed Mode Item Room
+412,Devil Room
+412,Greed Mode Devil Room
+413,Angel Room
+413,Greed Mode Angel Room
+414,Shop
+415,Angel Room
+415,Greed Mode Angel Room
+416,Shop
+416,Greed Mode Item Room
+416,Greed Mode Shop
+417,Devil Room
+417,Demon Beggar
+418,Item Room
+419,Item Room
+420,Devil Room
+420,Demon Beggar
+421,Item Room
+421,Greed Mode Item Room
+422,Item Room
+422,Shop
+422,Greed Mode Item Room
+423,Angel Room
+423,Greed Mode Angel Room
+424,Shop
+424,Secret Room
+425,Shop
+425,Greed Mode Item Room
+426,Item Room
+426,Key Beggar
+427,Item Room
+428,Boss Room
+428,Gold/Stone Chest
+429,Dead shopkeeper
+430,Item Room
+430,Key Beggar
+431,Item Room
+431,Greed Mode Item Room
+431,Devil Room
+431,Greed Mode Devil Room
+432,Item Room
+432,Bomb Beggar
+433,Devil Room
+433,Greed Mode Devil Room
+434,Shop
+434,Greed Mode Item Room
+434,Greed Mode Shop
+435,Item Room
+436,Item Room
+436,Greed Mode Item Room
+437,Item Room
+438,Boss Room
+438,Gold/Stone Chest
+439,Shop
+439,Greed Mode Shop
+439,Mom's Chest
+440,Item Room
+440,Greed Mode Item Room
+441,Devil Room
+441,Greed Mode Devil Room
+442,Devil Room
+442,Curse Room
+443,Item Room
+444,Item Room
+444,Gold/Stone Chest
+445,Item Room
+446,Item Room
+447,Item Room
+447,Beggar
+448,Item Room
+449,Item Room
+450,Secret Room
+451,Shop
+451,Curse Room
+452,Item Room
+453,Item Room
+454,Item Room
+455,Boss Room
+455,Beggar
+455,Gold/Stone Chest
+456,Boss Room
+456,Beggar
+456,Gold/Stone Chest
+457,Item Room
+458,Item Room
+459,Item Room
+460,Item Room
+461,Item Room
+462,Devil Room
+463,Item Room
+464,Angel Room
+465,Item Room
+466,Item Room
+467,Item Room
+468,Devil Room
+468,Curse Room
+469,Item Room
+470,Item Room
+471,Item Room
+472,Shop
+473,Item Room
+475,Shop
+475,Devil Room
+475,Curse Room
+475,Red Chest
+475,Demon Beggar
+476,Item Room
+477,Devil Room
+477,Angel Room
+478,Item Room
+479,Shop
+480,Shop
+481,Item Room
+482,Item Room
+483,Shop
+483,Bomb Beggar
+484,Item Room
+485,Item Room
+485,Shop
+485,Beggar
+486,Shop
+487,Shop
+487,Demon Beggar
+488,Item Room
+489,Secret Room
+490,Angel Room
+491,Item Room
+492,Item Room
+492,Key Beggar
+493,Item Room
+493,Demon Beggar
+494,Item Room
+495,Item Room
+496,Item Room
+496,Curse Room
+496,Demon Beggar
+497,Item Room
+498,Devil Room
+498,Angel Room
+499,Angel Room
+500,Secret Room
+501,Secret Room
+502,Item Room
+503,Devil Room
+503,Curse Room
+503,Demon Beggar
+504,Item Room
+505,Shop
+506,Item Room
+506,Devil Room
+507,Item Room
+508,Item Room
+508,Mom's Chest
+509,Item Room
+510,Angel Room
+511,Item Room
+512,Item Room
+513,Item Room
+514,Shop
+515,Shop
+516,Item Room
+517,Item Room
+518,Shop
+519,Angel Room
+519,Devil Room
+520,Greed Mode Item Room
+520,Shop
+521,Item room
+521,Shop
+521,Beggar
+522,Item Room
+522,Greed Mode Item Room
+523,Shop
+524,Item Room
+524,Greed Mode Item Room
+525,Item Room
+525,Greed Mode Item Room
+526,Devil Room
+526,Angel Room
+527,Shop
+527,Key Beggar
+528,Angel Room
+529,Item Room
+530,Devil Room
+531,Item Room
+532,Item Room
+533,Angel Room
+534,Shop
+534,Gold/Stone Chest
+535,Shop
+536,Devil Room
+536,Curse Room
+537,Item Room
+537,Greed Mode Item Room
+538,Boss Room
+539,Item Room
+540,Item Room
+540,Greed Mode Item Room
+541,Boss Room
+542,Item Room
+542,Greed Mode Item Room
+543,Item Room
+543,Angel Room
+544,Item Room
+544,Greed Mode Item Room
+545,Item Room
+545,Library
+545,Devil Room
+546,Secret Room
+547,Boss Room
+548,Item Room
+548,Greed Mode item Room
+549,Item Room
+549,Greed Mode Item Room
+550,me: 4 rooms
+551,ve
+552,me: 4 rooms
+263,Secret Room
+263,Crane Game
+553,Item Room
+554,Devil Room
+555,Item Room
+555,Greed Mode Item Room
+556,Devil Room
+557,Item Room
+558,Item Room
+559,Item Room
+560,Item Room
+561,Item Room
+562,Secret Room
+563,Item Room
+564,Boss Room
+565,Item Room
+565,Red Chest
+565,Curse Room
+566,Shop
+567,Angel Room
+568,Angel Room
+569,Devil Room
+569,Curse Room
+570,Item Room
+571,Secret Room
+572,Devil Room
+573,Angel Room
+574,Angel Room
+575,Item Room
+576,Item Room
+577,Devil Room
+578,Item Room
+579,Angel Room
+580,Secret Room
+580,Red Chest
+580,Curse Room
+580,Key Beggar
+580,Mom's Chest
+581,Item Room
+581,Key Beggar
+582,Secret Room
+583,Item Room
+583,Bomb Beggar
+584,Angel Room
+584,Library
+585,Shop
+586,Angel Room
+588,Planetarium
+589,Planetarium
+590,Planetarium
+591,Planetarium
+592,Planetarium
+593,Planetarium
+594,Planetarium
+595,Planetarium
+596,Planetarium
+597,Planetarium
+598,Planetarium
+599,Shop
+599,Crane Game
+600,Boss Room
+601,Angel Room
+602,Shop
+603,Shop
+603,Battery Beggar
+604,Shop
+604,Crane Game
+604,Mom's Chest
+605,Item Room
+606,Devil Room
+607,Item Room
+608,Item Room
+609,Item Room
+609,Secret Room
+609,Crane Game
+610,Item Room
+611,Item Room
+611,Greed Mode Item Room
+612,Item Room
+612,Secret Room
+614,Item Room
+615,Item Room
+616,Item Room
+617,Item Room
+617,Crane Game
+618,Item Room
+618,Rotten Beggar
+619,Shop
+619,Shop
+621,Shop
+621,Ultra Secret Room
+622,Angel Room
+622,Greed Mode Angel Room
+623,Shop
+624,Boss Room
+624,Shop
+625,Item Room
+626,None (see above)
+627,None (see above)
+628,Secret Room
+629,Item Room
+629,Key Beggar
+629,Crane Game
+631,Item Room
+632,Secret Room
+633,None
+634,Devil Room
+634,Angel Room
+635,Item Room
+636,Secret Room
+637,Item Room
+638,Shop
+638,Crane Game
+639,Item Room
+639,Rotten Beggar
+640,Angel Room
+641,Item Room
+642,Shop
+642,Red Chest
+642,Curse Room
+643,Angel Room
+644,Boss Room
+644,Golden Chest
+644,Crane Game
+645,Item Room
+646,Devil Room
+646,Bomb Beggar
+646,Greed Mode Devil Room
+647,Shop
+647,Battery Beggar
+649,Item Room
+649,Key Beggar
+650,Item Room
+651,Angel Room
+652,Item Room
+653,Angel Room
+654,Devil Room
+655,Item Room
+657,Item Room
+658,Item Room
+658,Greed Mode Item Room
+659,Boss Room
+660,Shop
+661,Item Room
+661,Greed Mode Item Room
+663,Item Room
+664,Secret Room
+665,Devil Room
+665,Curse Room
+665,Red Chest
+667,Secret Room
+668,None (see above)
+669,Secret Room
+670,Shop
+671,Item Room
+672,Devil Room
+672,Demon Beggar
+673,None
+674,Secret Room
+675,Item Room
+675,Secret Room
+676,Item Room
+676,Demon Beggar
+677,Item Room
+677,Secret Room
+678,Item Room
+678,Ultra Secret Room
+679,Devil Room
+680,Item Room
+681,Item Room
+682,Item Room
+683,Item Room
+684,Devil Room
+685,Angel Room
+686,Angel Room
+687,Item Room
+687,Crane Game
+688,Secret Room
+689,Secret Room
+690,Item Room
+691,Angel Room
+691,Secret Room
+692,Devil Room
+692,Curse Room
+693,Item Room
+693,Key Beggar
+694,Devil Room
+694,Curse Room
+695,Item Room
+695,Devil Room
+696,Angel Room
+697,Secret Room
+697,Curse Room
+698,Devil Room
+699,Devil Room
+700,Secret Room
+701,Secret Room
+702,Devil Room
+702,Curse Room
+703,Item Room
+703,Secret Room
+704,Devil Room
+705,Devil Room
+706,Devil Room
+707,Boss Room
+708,Boss Room
+709,Item Room
+709,Crane Game
+710,Item Room
+711,Curse Room
+711,Secret Room
+711,Shop
+712,Devil Room
+712,Library
+713,Item Room
+714,None
+715,None
+716,Shop
+716,Secret Room
+717,Item Room
+717,Secret Room
+719,Shop
+719,Secret Room
+719,Wooden Chest
+720,Item Room
+720,Crane Game
+721,Secret Room
+722,Item Room
+723,Item Room
+723,Secret Room
+723,Crane Game
+724,Item Room
+725,Item Room
+726,Item Room
+727,Item Room
+727,Bomb Beggar
+728,Item Room
+728,Devil Room
+729,Item Room
+730,Boss Room
+730,Crane Game
+730,Golden Chest
+731,Boss Room
+732,Shop
+732,Golden Chest
+732,Mom's Chest
+732,Old Chest

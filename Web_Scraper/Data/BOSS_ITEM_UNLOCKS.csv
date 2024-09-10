@@ -1,0 +1,203 @@
+item_id,unlock_char,unlock_boss
+20,Any Character,Mom's Heart
+32,Any Character,Mom's Heart
+50,Any Character,Steven
+52,Any Character,Mom's Heart
+73,Any Character,Mom
+74,Any Character,Mom's Heart
+78,Any Character,Horsemen Bosses
+83,Azazel,Boss Rush
+86,Any Character,Basement II
+87,Any Character,Lokii
+88,Any Character,Caves II
+94,Cain,Isaac
+96,Any Character,C.H.A.D
+97,Any Character,Seven Sins
+98,Maggy,Isaac
+99,Any Character,Depths Gish
+105,Blue Baby,Isaac
+112,Maggy,Satan
+113,Azazel,The Lamb
+114,Isaac,Satan
+126,Eve,Satan
+127,Blue Baby,Satan
+131,Cain,Satan
+149,Any Character,Mom's Heart
+157,Samson,Isaac
+162,Maggy,???
+166,Isaac,???
+172,Eve,???
+179,Blue Baby,???
+186,Samson,Satan
+188,Cain,The Lamb
+206,Judas,Isaac
+221,Any Character,Mom's Heart
+230,Azazel,???
+240,Any Character,Mom's Heart
+258,Lazarus,Boss Rush
+271,Eden,The Lamb
+276,The Lost,Isaac
+283,The Lost,Boss Rush
+286,Eden,Isaac
+287,Eden,Satan
+292,Azazel,Isaac
+293,Any Character,Krampus 
+297,Lazarus,The Lamb
+310,Eve,Boss Rush
+311,Judas,Boss Rush
+312,Maggy,Boss Rush
+319,Cain,Boss Rush
+320,Blue Baby,Boss Rush
+321,Samson,Boss Rush
+323,Isaac,Isaac
+324,Eden,Boss Rush
+327,Any Character,Isaac
+328,Any Character,Satan
+332,Lazarus,Isaac
+333,The Lost,Satan
+334,The Lost,???
+335,The Lost,The Lamb
+349,Keeper,Isaac
+357,Lilith,Greed
+360,Lilith,Hush
+361,Blue Baby,Hush
+362,Isaac,Greed
+363,The Lost,Hush
+381,Eden,Hush
+386,Cain,Hush
+387,Maggy,Greed
+388,Lazarus,Greed
+389,Lilith,Isaac
+391,Judas,Hush
+392,The Lost,Greed
+393,Lilith,Satan
+399,Azazel,Hush
+404,Isaac,Hush
+405,Eden,Greed
+407,Maggy,Hush
+408,Eve,Hush
+409,Lazarus,Hush
+410,Cain,Greed
+411,Samson,Greed
+412,Lilith,???
+413,Lilith,Boss Rush
+416,Keeper,???
+417,Lilith,The Lamb
+433,Judas,Greed
+441,every character,Mega Satan
+442,Azazel,Delirium
+450,Keeper,Greedier
+453,Lazarus,Delirium
+455,The Lost,Greedier
+462,Judas,Greedier
+464,Maggy,Greedier
+468,Judas,Delirium
+470,Apollyon,Hush
+472,Blue Baby,Delirium
+475,Lazarus,Greedier
+476,Isaac,Greedier
+477,Apollyon,Delirium
+479,Apollyon,Mom's Heart
+485,Keeper,Delirium
+486,Eve,Delirium
+488,Eden,Greedier
+489,Isaac,Delirium
+490,Eden,Delirium
+496,Lilith,Delirium
+498,Lilith,Greedier
+499,Maggy,Delirium
+500,Cain,Greedier
+504,Apollyon,Greed
+510,Any Character,Delirium
+517,Any Character,Lil Horn
+541,The Forgotten,Mom's Heart
+542,The Forgotten,Isaac
+543,The Forgotten,Hush
+544,The Forgotten,Satan
+545,The Forgotten,Delirium
+546,The Forgotten,Greedier
+547,The Forgotten,Boss Rush
+548,The Forgotten,???
+549,The Forgotten,The Lamb
+562,Jacob & Esau,Boss Rush
+565,Lilith,Mother
+568,Bethany,Hush
+577,Jacob & Esau,The Lamb
+584,Bethany,Isaac
+585,Bethany,The Lamb
+586,Jacob & Esau,Isaac
+609,Blue Baby,Mother
+610,Eve,Mother
+611,Tainted Samson,The Beast
+612,The Lost,Mother
+619,Jacob & Esau,???
+619,Jacob & Esau,???
+621,Jacob & Esau,Satan
+622,Jacob & Esau,Greedier
+631,Isaac,Mother
+639,Maggy,Mother
+640,Bethany,Satan
+641,Judas,Mother
+642,Jacob & Esau,Mother
+643,Bethany,Mother
+645,Lazarus,Mother
+649,Any Character,Baby Plum
+651,Bethany,Delirium
+653,Bethany,Greedier
+665,Cain,Mother
+667,Tainted Keeper,The Beast
+670,Isaac,The Beast
+671,Magdalene,The Beast
+672,Cain,The Beast
+673,Judas,The Beast
+674,The Forgotten,The Beast
+675,Eve,The Beast
+676,Samson,The Beast
+677,Lazarus,The Beast
+678,Lilith,The Beast
+679,Azazel,The Beast
+680,Blue Baby,The Beast
+681,Apollyon,Mother
+682,Apollyon,The Beast
+683,The Forgotten,Mother
+684,The Lost,The Beast
+685,Bethany,The Beast
+686,Bethany,Greed
+687,Jacob & Esau,The Beast
+688,Jacob & Esau,Greed
+689,Tainted Isaac,The Beast
+690,Tainted Magdalene,The Beast
+691,Tainted Lost,The Beast
+692,Tainted Judas,The Beast
+693,Tainted Blue Baby,The Beast
+694,Tainted Eve,The Beast
+695,Samson,Mother
+696,Tainted Lazarus,The Beast
+697,Jacob & Esau,Hush
+698,Tainted Lilith,The Beast
+699,Tainted Azazel,The Beast
+700,Tainted Apollyon,The Beast
+701,Tainted Forgotten,The Beast
+702,Tainted Bethany,The Beast
+703,Tainted Jacob,The Beast
+704,Tainted Samson,Delirium
+705,Tainted Judas,Delirium
+706,Tainted Apollyon,Delirium
+709,Jacob & Esau,Delirium
+710,Tainted Cain,Delirium
+711,Tainted Lazarus,Delirium
+712,Tainted Bethany,Delirium
+713,Tainted Eve,Delirium
+716,The Keeper,Mother
+717,Tainted Keeper,Delirium
+719,Keeper,The Beast
+720,Eden,The Beast
+721,Tainted Eden,The Beast
+722,Tainted Jacob,Delirium
+723,Tainted Isaac,Delirium
+724,Tainted Magdalene,Delirium
+725,Tainted Blue Baby,Delirium
+726,Tainted Azazel,Delirium
+727,Tainted Lost,Delirium
+728,Tainted Lilith,Delirium
+729,Tainted Forgotten,Delirium

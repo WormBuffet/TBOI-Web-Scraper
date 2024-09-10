@@ -1,0 +1,34 @@
+if repentence_items.find_all("p", {"class": "item-title"})[i]:
+        itemID = repentence_items.find_all("p", {"class": "r-itemid"})[i].get_text()[8:]
+        print(itemID)
+
+        itemName = repentence_items.find_all("p", {"class": "item-title"})[i].get_text()
+        print(itemName)
+
+        itemPickup = re.sub('"',  "", repentence_items.find_all("p", {"class": "pickup"})[i].get_text())
+        print(itemPickup)
+
+        itemQuality = repentence_items.find_all("p", {"class": "quality"})[i].get_text()[9:]
+        print(itemQuality)
+
+        extrasList = []
+        for li in repentence_items.find_all("ul")[i].find_all("p"):
+            extrasList.append(li.get_text())
+
+        itemType = extrasList[0][6:]
+        print(itemType)
+
+        if(itemType == "Active"): 
+            activeItemRecharge.append([itemID, extrasList[1][15:]])
+            print(extrasList[1][15:])
+            lastIndex = 2
+        else:
+            lastIndex = 1
+
+        itemPool = extrasList[lastIndex][11:] # skip the first 11 characters of string
+        tempPool = [x.strip() for x in itemPool.split(',')]
+        for item in tempPool:
+            itemPools.append([itemID, item])
+            print(item)
+else:
+        found = False
